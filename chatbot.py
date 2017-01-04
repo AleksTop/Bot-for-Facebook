@@ -23,8 +23,8 @@ def message(msg):
             msg.reply(reply).send()
 
 # Find your Facebook id from http://findmyfacebookid.com/
-jid = '100000014293800@chat.facebook.com' 
-password = 'FuckUAsshole'
+jid = 'your-facebook-id@chat.facebook.com' 
+password = 'your-fb-password'
 addr = ('chat.facebook.com', 5222)
 ipaddr = ('209.85.175.125',5222)
 
